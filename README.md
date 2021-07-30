@@ -3,7 +3,7 @@
 <h3 align="center">I'm Dinuka Dilshan, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3>
  
 
-- 🌱 I’m currently learning **Flutter and JavaScript.**
+- 🌱 I’m currently learning **JavaScript and Node.js.**
 
 - 💬 Ask me about **Java**
 
