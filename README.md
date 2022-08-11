@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript,React and Node.js.**
+- 🌱 I’m currently learning **TypeScript,JavaScript,React and Node.js.**
 
-- 💬 Ask me about **Java & JavaScript**
+- 💬 Ask me about **React, Express & JavaScript**
 
 - 📫 How to reach me **jadinukadilshan@gmail.com**
 
