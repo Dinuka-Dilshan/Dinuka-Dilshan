@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript,JavaScript,React and Node.js.**
+- 🌱 I’m currently learning **TypeScript,React Native, JavaScript,React and Node.js.**
 
 - 💬 Ask me about **React, Express & JavaScript**
 
