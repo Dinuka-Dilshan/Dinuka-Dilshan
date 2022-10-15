@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinuka Dilshan.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I'm Dinuka Dilshan, Intern FrontEnd Developer at Aeronology.</h3>
+<h3 > 😊 I'm Dinuka Dilshan, Intern FrontEnd Developer at Aeronology.</h3>
 
 
 
