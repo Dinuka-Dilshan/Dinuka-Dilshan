@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Vue.js, TypeScript,React Native, JavaScript,React and Node.js.**
+- 🌱 I’m currently learning **Next.js and React Native.**
 
-- 💬 Ask me about **React,Vue, Express & JavaScript**
+- 💬 Ask me about **React,Vue, Express, TypeScript & JavaScript**
 
 - 📫 How to reach me **jadinukadilshan@gmail.com**
 
