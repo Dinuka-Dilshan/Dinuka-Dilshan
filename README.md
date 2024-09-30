@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js and React Native.**
+- 🌱 I’m currently learning **AWS, C# and React Native.**
 
 - 💬 Ask me about **React,Vue, Express, TypeScript & JavaScript**
 
