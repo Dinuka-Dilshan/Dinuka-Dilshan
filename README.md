@@ -6,8 +6,8 @@
 
 ---
 
-- 🔭 I’m currently working with **React, Next.js, TypeScript, and AWS**
-- 🌱 I’m exploring **serverless architectures**, **modern DevOps practices**, and **Next.js 16**
+- 🔭 I’m currently working with **React, Next.js, TypeScript,Golang and AWS**
+- 🌱 I’m exploring **serverless architectures**, **modern DevOps practices**, **golang** and **Next.js 16**
 - 💬 Ask me about **React, Next.js, AWS (CDK), TypeScript, Node.js**
 - 📫 Reach me at:
   - 📧 **jadinukadilshan@gmail.com**
